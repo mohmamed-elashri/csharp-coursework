@@ -2,7 +2,7 @@
 
 [![Build all exercises](https://github.com/mohmamed-elashri/csharp-coursework/actions/workflows/build.yml/badge.svg)](https://github.com/mohmamed-elashri/csharp-coursework/actions/workflows/build.yml)
 
-Six small console programs written as introductory university coursework while learning C# fundamentals. Each exercise lives in its own folder with a README (how to run it, which concepts it practises, known limitations).
+Six small console programs written as introductory university coursework while learning C# fundamentals. They are first-year level exercises, not production work. Each exercise lives in its own folder with a README (how to run it, which concepts it practises, known limitations).
 
 These are learning exercises, not production code. They are kept as written, so some inputs are not validated.
 
